@@ -12,6 +12,10 @@ body {
     border-color: #202020 !important
 }
 
+#brdheader .box {
+    border-top-width: 0px !important;   
+}
+
 #brdmenu {
     background-color: #202020 !important;
 }
