@@ -24,3 +24,13 @@ body {
 #brdmenu {
     background-color: #202020 !important;
 }
+
+th.tcl {
+    background-color: #202020 !important;
+    border-color: #202020 !important;
+}
+
+th.tcr {
+    background-color: #202020 !important;
+    border-color: #202020 !important;
+}
