@@ -44,7 +44,11 @@ td.tcl:hover {
     background-color: #202020 !important;
 }
 
-td.tcl {
+td.tcr {
     background-color: #151515 !important;
     border-color: #202020 !important
+}
+
+td.tcr:hover {
+    background-color: #202020 !important;
 }
