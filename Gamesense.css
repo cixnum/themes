@@ -40,6 +40,10 @@ td.tcl {
     border-color: #202020 !important
 }
 
+td.tcl:hover {
+    background-color: #202020 !important;
+}
+
 td.tcl {
     background-color: #151515 !important;
     border-color: #202020 !important
