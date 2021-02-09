@@ -12,6 +12,11 @@ body {
     border-color: #202020 !important
 }
 
+.pun h2 {
+    background-color: #151515 !important;
+    border-color: #202020 !important;
+}
+
 #brdheader .box {
     border-top-width: 1px !important;   
 }
